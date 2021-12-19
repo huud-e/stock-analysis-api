@@ -1,0 +1,8 @@
+[package]
+name = "stock-analysis-api"
+version = "0.1.0"
+authors = ["huud-e <huud.duu@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "3"
